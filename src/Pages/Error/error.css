@@ -1,0 +1,31 @@
+.Father-Error{
+    width: 100%;
+    height: calc(100vh - 56px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(1, 26, 34);;
+}
+
+.Father-Error h1{
+    font-size: 120px;
+}
+
+.Father-Error p{
+    font-size: 18px;
+}
+
+.Father-Error a{
+    text-decoration: none;
+    background-color: rgb(1, 26, 34);
+    color: rgb(185, 185, 185);
+    padding: 10px;
+    border-radius: 5px;
+    transition: color 1s ease-in;
+
+}
+
+.Father-Error a:hover{
+    color: white;
+}

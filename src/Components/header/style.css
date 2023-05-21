@@ -1,0 +1,29 @@
+.Header-App{
+    background-color: rgb(1, 26, 34);
+    height: 56px;
+    display: flex;
+    justify-content:space-around;
+    padding: 0px 40px ;
+    align-items: center;
+    gap: 40px;
+}
+
+.LogoName{
+    cursor: pointer;
+    text-decoration: none;
+    color:rgba(212, 212, 212, 0.925);
+    font-weight: bold;
+    letter-spacing: 1.8px;
+    font-size: 24px;
+    
+}
+
+.ItensNav{
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(185, 185, 185);
+    transition: color 1s ease-in;
+}
+.ItensNav:hover{
+    color: white;
+}

@@ -1,0 +1,76 @@
+.father-movie{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    width:500px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+
+.father-movie h1{
+    font-size: 18px;
+    color: rgb(1, 26, 34);
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+.father-movie img{
+    border-radius: 5px;
+    width: 500px;
+
+}
+
+.father-movie strong{
+    font-size: 12px;
+    align-self: start;
+}
+
+.father-movie h3{
+    font-size: 14px;
+    align-self: start;
+   
+}
+
+.father-movie p {
+    font-size: 16px;
+    line-height: 18 px;
+}
+.buttons{
+    align-self: start;
+}
+.buttons button{
+    padding: 8px;
+    width: 80px;
+    margin-right: 10px;
+    background-color: rgb(1, 26, 34);
+    border: none;
+    border-radius: 5px;
+    color: rgb(185, 185, 185);
+    box-sizing: border-box;
+}
+    button a{
+    text-decoration: none;
+    color:  rgb(185, 185, 185);
+    width: 100%;
+    height: 100%;
+    display: block;
+    
+}
+
+.buttons button:hover{
+    transition: padding .1s ease-in-out;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+    
+
+
+
+
