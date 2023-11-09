@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/website?label=Deploy&style=for-the-badge&url=https://prime-flix-psi.vercel.app/)](https://prime-flix-psi.vercel.app/)
 
 <div>
-    <h2>Sobre 🚨</h2>
+    <h2>About 🚨</h2>
     <p>
         The project was developed during my React course. In this project, I presented details of the latest 10 newly released movies through an external API. This project marked the beginning of my journey into React programming.
     </p>
